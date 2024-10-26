@@ -1,5 +1,92 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="TrueSport​" tvg-name="  " tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="True Sport", True Premier Football HD 1 (livedoo)
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="TrueSport​" tvg-name="  " tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="True Sport", True Premier Football HD 1 (streaming)
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/bsb-epl1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TrueSport​" tvg-name="   " tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="True Sport", True Premier Football HD 1 (vip)
+#EXTVLCOPT:http-referrer=https://doolive4k.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://live.vip-streaming.com:30443/doolive4k.tv/true-premier-hd-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TrueSport​" tvg-name="  " tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="True Sport", True Premier Football HD 1 (youdoo)
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://youdooball.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8|referer=https://www.youdooball.com/|userAgent=Mozilla/5.0
+
+#EXTINF:-1 tvg-id="TrueSport​" tvg-name="   " tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24cc6ba0-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="True Sport", True Premier Football HD 2 (streaming)
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/epl-2.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="TrueSport​" tvg-name="   " tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24cc6ba0-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="True Sport", True Premier Football HD 2 (vip)
+#EXTVLCOPT:http-referrer=https://doolive4k.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://live.vip-streaming.com:30443/cloudstreaming/true-premier-hd-2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TrueSport​" tvg-name="   " tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/251d71d0-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="True Sport", True Premier Football HD 3 (streaming)
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/epl-3.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="TrueSport​" tvg-name="   " tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/251d71d0-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="True Sport", True Premier Football HD 3 (vip)
+#EXTVLCOPT:http-referrer=https://doolive4k.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://live.vip-streaming.com:30443/cloudstreaming/true-premier-hd-3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TrueSport​" tvg-name="   " tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-4.png" group-title="True Sport", True Premier Football HD 4 (streaming)
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/epl-4.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="TrueSport​" tvg-name="   " tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-4.png" group-title="True Sport", True Premier Football HD 4 (vip)
+#EXTVLCOPT:http-referrer=https://doolive4k.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://live.vip-streaming.com:30443/cloudstreaming/true-premier-hd-4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TrueSport​" tvg-name="   " tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-5.png" group-title="True Sport", True Premier Football HD 5 (streaming)
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/epl-5.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="TrueSport​" tvg-name="   " tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-5.png" group-title="True Sport", True Premier Football HD 5 (vip)
+#EXTVLCOPT:http-referrer=https://doolive4k.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://live.vip-streaming.com:30443/cloudstreaming/true-premier-hd-5/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="beINSports ????? ​" tvg-name="   " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/800px-Logo_bein_sports_1.png" group-title="Bein Sports(TH)",BEIN1
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/epl-bein1.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="beINSports ????? ​" tvg-name="   " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1200px-Logo_bein_sports_2.png" group-title="Bein Sports(TH)",BEIN2
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/epl-bein2.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="beINSports ????? ​" tvg-name="   " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/800px-Logo_bein_sports_3.png" group-title="Bein Sports(TH)",BEIN3
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/epl-bein3.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="beINSports ????? ​" tvg-name="   " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/800px-Logo_bein_sports_3.png" group-title="Bein Sports(TH)",BEIN3 (vip)
+#EXTVLCOPT:http-referrer=https://doolive4k.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://live.vip-streaming.com:30443/cloudstreaming/bein-sport-3-th/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.info/i/lf/300/1507600205/1554.png" group-title="Sky Sports",SKY SPORTS PREMIER LEAGUE UK
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/uk-skysports-epl.stream/chunks.m3u8
+
+
 #EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/gaZdu8u.png", FS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
