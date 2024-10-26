@@ -505,6 +505,16 @@ http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400370401.m3u8
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400370402.m3u8
 #EXTINF:-1 group-title="Main Leagues" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_8LG2zkJF3lSxSXUl7lTai4JsVNRgEbSNkQ&usqp=CAU", AFC Champion League 6
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400370403.m3u8
+#EXTINF:-1 group-title="Live Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU6Dsigy5FG5o00fhaEQIYgNpimF4UTpPZ6wuctVJf15oWN7WzFaWx_04B&s=10", All League Live 1 ch (Only Event)
+https://cheapmdhal.lol/live/1/chunks.m3u8?bongls.com
+#EXTINF:-1 group-title="Live Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU6Dsigy5FG5o00fhaEQIYgNpimF4UTpPZ6wuctVJf15oWN7WzFaWx_04B&s=10", All League Live 2 ch (Only Event)
+https://cheapmdhal.lol/live/2/chunks.m3u8?bongls.com
+#EXTINF:-1 group-title="Live Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU6Dsigy5FG5o00fhaEQIYgNpimF4UTpPZ6wuctVJf15oWN7WzFaWx_04B&s=10", All League Live 3 ch (Only Event)
+https://cheapmdhal.lol/live/3/chunks.m3u8?bongls.com
+#EXTINF:-1 group-title="Live Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU6Dsigy5FG5o00fhaEQIYgNpimF4UTpPZ6wuctVJf15oWN7WzFaWx_04B&s=10", All League Live 4 ch (Only Event)
+https://cheapmdhal.lol/live/4/chunks.m3u8?bongls.com
+#EXTINF:-1 group-title="Live Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU6Dsigy5FG5o00fhaEQIYgNpimF4UTpPZ6wuctVJf15oWN7WzFaWx_04B&s=10", All League Live 5 ch (Only Event)
+https://cheapmdhal.lol/live/5/chunks.m3u8?bongls.com
 #EXTINF:-1 group-title="Live Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0pexOuo9LuIbYQbgG2RUF372ZtjfaCzc3Sg&usqp=CAU", All League Live 1 sn (Only Event)
 https://sportnext.online/hls/M1.m3u8
 #EXTINF:-1 group-title="Live Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0pexOuo9LuIbYQbgG2RUF372ZtjfaCzc3Sg&usqp=CAU", All League Live 2 sn (Only Event)
@@ -697,6 +707,8 @@ http://s21tv.co:80/sports3456676654/146150109025/359539
 http://streamsy.online:2999/coachj88/N93DPKS9pJ/251
 #EXTINF:-1 group-title="US Sports" tvg-logo="https://i.imgur.com/uo7pHjF.png", CBS Sport Network (fl2)
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 group-title="US Sports" tvg-logo="https://i.imgur.com/uo7pHjF.png", CBS Sport Network (165)
+http://165.1.79.137:1235/stream/directv/cbssportsnetworkhd/master.m3u8
 #EXTINF:-1 group-title="US Sports" tvg-logo="https://i.imgur.com/uo7pHjF.png", CBS Sport Network (pda)
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=61352&extension=ts
 #EXTINF:-1 group-title="US Sports" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_1.png", Fox Sport 1 (fl2)
