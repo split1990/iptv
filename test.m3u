@@ -1,35 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", BT Sports 1 UK
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://xyzdddd.mizhls.ru/lb/premium31/index.m3u8
-#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", BT Sports 2 UK
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://xyzdddd.mizhls.ru/lb/premium32/index.m3u8
-#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", BT Sports 3 UK
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://xyzdddd.mizhls.ru/lb/premium33/index.m3u8
-#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", TNT Sports 1 UK
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://xyzdddd.mizhls.ru/lb/premium31/index.m3u8
-#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", TNT Sports 2 UK
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://xyzdddd.mizhls.ru/lb/premium32/index.m3u8
-#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", TNT Sports 3 UK
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://xyzdddd.mizhls.ru/lb/premium33/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/gaZdu8u.png", FS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
@@ -46,14 +16,38 @@ https://canale.mizhls.ru/lb/premium885/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium886/playlist.m3u8
-#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", HBO
-http://fl2.moveonjoy.com/HBO/index.m3u8
-#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", HBO 2
-http://fl2.moveonjoy.com/HBO_2/index.m3u8
-#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", Animal Planet
-http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
-#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", Food Network
-http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", BT Sports 1
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium31/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", BT Sports 2
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium32/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", BT Sports 3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium33/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", ESPN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://848b3516657c-usatv.baby-beamup.club/public/m3u/44.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", ESPN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://848b3516657c-usatv.baby-beamup.club/public/m3u/45.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", CBS Sports Network
+https://848b3516657c-usatv.baby-beamup.club/public/m3u/308.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", beIN Sports espanol
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://848b3516657c-usatv.baby-beamup.club/public/m3u/372.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", TUDN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://848b3516657c-usatv.baby-beamup.club/public/m3u/66.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", WWE Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+http://fl2.moveonjoy.com/WWE/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", Hub Premier 1 - no Vpn
 http://109.61.81.147:2080/cdn2/1255/video.m3u8?token=4444
 #EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", Hub Premier 2 - no Vpn
@@ -72,7 +66,6 @@ http://109.61.81.147:2080/cdn2/560/video.m3u8?token=4444
 http://109.61.81.147:2080/cdn2/295/video.m3u8?token=4444
 #EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", TNT Sports 4 - no Vpn
 http://109.61.81.147:2080/cdn2/5054/video.m3u8?token=4444
-
 
 #EXTINF:-1 group-title="Sport Ott" tvg-logo="https://i.imgur.com/6pNJHWn.jpg", W
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
