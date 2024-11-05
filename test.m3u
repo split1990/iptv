@@ -1,5 +1,46 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",AFC Champions League Elite : Pakhtakor vs Al Rayyan (10:00PM Tuesday Nov 05th) [TV4 SPORTKANALEN]
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://xyzdddd.mizhls.ru/lb/premium707/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",AFC Champions League Elite : Pakhtakor vs Al Rayyan (11:00 PM 11/05/24) [TV4 SPORTKANALEN]
+#EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=707
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=707
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",AFC Champions League Elite : Pakhtakor vs Al Rayyan (11:00 PM 11/05/24) [SPORT KLUB 1 SERBIA]
+#EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=101
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=101
+
+#EXTINF:-1 tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKow5Iw0ncAAMIXiCwhqIEmZMWQ0kBBAwW2mAJFzGKMKpQ9v5Rmo5X3xWYDBvcTEIIA.webp" group-title="FOOTBALL",Pakhtakor vs Al-Rayyan SC (02:00 PM 11/05/24) [ALPHA]
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/pakhtakor-tashkent-vs-al-rayyan/1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKow5Iw0ncAAMIXiCwhqIEmZMWQ0kBBAwW2mAJFzGKMKpQ9v5Rmo5X3xWYDBvcTEIIA.webp" group-title="FOOTBALL",Pakhtakor vs Al-Rayyan SC (02:00 PM 11/05/24) [BRAVO]
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/bravo/js/1730815200000-pakhtakor-al-rayyan/1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKow5Iw0ncAAMIXiCwhqIEmZMWQ0kBBAwW2mAJFzGKMKpQ9v5Rmo5X3xWYDBvcTEIIA.webp" group-title="FOOTBALL",Pakhtakor vs Al-Rayyan SC (02:00 PM 11/05/24) [CHARLIE]
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/charlie/js/pakhtakor-vs-al-rayyan-19265590/1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKow5Iw0ncAAMIXiCwhqIEmZMWQ0kBBAwW2mAJFzGKMKpQ9v5Rmo5X3xWYDBvcTEIIA.webp" group-title="FOOTBALL",Pakhtakor vs Al-Rayyan SC (02:00 PM 11/05/24) [DELTA]
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/delta/js/pakhtakor-vs-alrayyan-sc-303853/1/playlist.m3u8
+
+
 #EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/gaZdu8u.png", FS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
