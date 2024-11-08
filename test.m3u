@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD0PObKEdEjIURfiJNkzpIVb8BefBP96CB03qGbu3dsGzfZML1Bypp39A&s=10", TNT SPORT 1 {ualive}
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://live2-tv.vipcdn.live/uk_bts1/index.m3u8
+
+
 #EXTINF:-1 group-title="Various Sports" tvg-logo="https://www.liveeventsgroup.co.uk/wp-content/themes/liveevents/images/live-events-logo.png", Event Extra 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ad206bf45075406da1ccfd824b4667c9:dbb490040f3fece7959603e46e8314ab
