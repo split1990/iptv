@@ -1,5 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Various Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9wEj3yFAwSus9emc1bki2oXWvnG3xegGTSw&usqp=CAU", Sky Sports Main Event (simple)
+#EXTVLCOPT:http-referrer=http://vpncloud.uk/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://p13.lol/centra_live_a_b/n907iOxHult0/793873.ts
+#EXTINF:-1 group-title="Various Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9wEj3yFAwSus9emc1bki2oXWvnG3xegGTSw&usqp=CAU", Sky Sports Premier League (simple)
+#EXTVLCOPT:http-referrer=http://vpncloud.uk/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://p13.lol/centra_live_a_b/n907iOxHult0/793874.ts
 #EXTINF:-1 group-title="Various Sports" tvg-logo="https://www.liveeventsgroup.co.uk/wp-content/themes/liveevents/images/live-events-logo.png", Event Extra 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ad206bf45075406da1ccfd824b4667c9:dbb490040f3fece7959603e46e8314ab
