@@ -1,56 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/TNT_Sports_Ultimate_(2023)_II.svg/revision/latest/scale-to-width-down/250?cb=20230719041550", TNT Sports Ultimate 4K (simple)
-https://p13.lol/centra_live_a_b/n907iOxHult0/1472066.ts
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png", Sky Sport 1 4K - Only Event (simple)
-http://line.sweet-4k.cc:80/HiFll2XSogYRvaj/KOBb78oDBd/1444580
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png", Sky Sport 2 4K - Only Event (simple)
-http://line.sweet-4k.cc:80/HiFll2XSogYRvaj/KOBb78oDBd/1444581
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9wEj3yFAwSus9emc1bki2oXWvnG3xegGTSw&usqp=CAU", Sky Sports Main Event (simple)
-https://p13.lol/centra_live_a_b/n907iOxHult0/793873.ts
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9wEj3yFAwSus9emc1bki2oXWvnG3xegGTSw&usqp=CAU", Sky Sports Premier League (simple)
-https://p13.lol/centra_live_a_b/n907iOxHult0/793874.ts
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9wEj3yFAwSus9emc1bki2oXWvnG3xegGTSw&usqp=CAU", Sky Sports Football (simple)
-https://p13.lol/centra_live_a_b/n907iOxHult0/437268.ts
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9wEj3yFAwSus9emc1bki2oXWvnG3xegGTSw&usqp=CAU", Sky Sports Action (simple)
-https://p13.lol/centra_live_a_b/n907iOxHult0/437272.ts
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9wEj3yFAwSus9emc1bki2oXWvnG3xegGTSw&usqp=CAU", Sky Sports Mix (simple)
-https://p13.lol/centra_live_a_b/n907iOxHult0/1223635.ts
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9wEj3yFAwSus9emc1bki2oXWvnG3xegGTSw&usqp=CAU", Sky Sports Golf (simple)
-https://p13.lol/centra_live_a_b/n907iOxHult0/437267.ts
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9wEj3yFAwSus9emc1bki2oXWvnG3xegGTSw&usqp=CAU", Sky Sports Tennis (simple)
-https://p13.lol/centra_live_a_b/n907iOxHult0/2299459.ts
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9wEj3yFAwSus9emc1bki2oXWvnG3xegGTSw&usqp=CAU", Sky Sports+ (simple)
-https://p13.lol/centra_live_a_b/n907iOxHult0/1191809.ts
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK4wUk2jt7Si5dvd2CDwlO6AvL5qc8KmBI051aslZ3dc4vQCeKYPdsFZEJ&s=10", Eleven Sports 1 (simple)
-https://p13.lol/centra_live_a_b/n907iOxHult0/1782189.ts
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK4wUk2jt7Si5dvd2CDwlO6AvL5qc8KmBI051aslZ3dc4vQCeKYPdsFZEJ&s=10", Eleven Sports 2 (simple)
-https://p13.lol/centra_live_a_b/n907iOxHult0/1782193.ts
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK4wUk2jt7Si5dvd2CDwlO6AvL5qc8KmBI051aslZ3dc4vQCeKYPdsFZEJ&s=10", Eleven Sports 3 (simple)
-https://p13.lol/centra_live_a_b/n907iOxHult0/1782198.ts
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK4wUk2jt7Si5dvd2CDwlO6AvL5qc8KmBI051aslZ3dc4vQCeKYPdsFZEJ&s=10", Eleven Sports 4 (simple)
-https://p13.lol/centra_live_a_b/n907iOxHult0/1782202.ts
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlAwdx48QPEiQHrHIz-7t8P35X9cJZrvsxjQ&usqp=CAU", Sport TV 1 (simple)
-https://p13.lol/centra_live_a_b/n907iOxHult0/1782163.ts
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlAwdx48QPEiQHrHIz-7t8P35X9cJZrvsxjQ&usqp=CAU", Sport TV 2 (simple)
-https://p13.lol/centra_live_a_b/n907iOxHult0/1782167.ts
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlAwdx48QPEiQHrHIz-7t8P35X9cJZrvsxjQ&usqp=CAU", Sport TV 3 (simple)
-https://p13.lol/centra_live_a_b/n907iOxHult0/1782172.ts
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlAwdx48QPEiQHrHIz-7t8P35X9cJZrvsxjQ&usqp=CAU", Sport TV 4 (simple)
-https://p13.lol/centra_live_a_b/n907iOxHult0/1782176.ts
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlAwdx48QPEiQHrHIz-7t8P35X9cJZrvsxjQ&usqp=CAU", Sport TV 5 (simple)
-https://p13.lol/centra_live_a_b/n907iOxHult0/1782180.ts
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlAwdx48QPEiQHrHIz-7t8P35X9cJZrvsxjQ&usqp=CAU", Sport TV 6 (simple)
-https://p13.lol/centra_live_a_b/n907iOxHult0/1782184.ts
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://i.imgur.com/uo7pHjF.png", CBS Sport Network (simple)
-https://p13.lol/centra_live_a_b/n907iOxHult0/1223129.ts
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://seeklogo.com/images/T/tudn-positivo-logo-F60FDA68AF-seeklogo.com.png", TUDN (simple)
-https://p13.lol/centra_live_a_b/n907iOxHult0/2086102.ts
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Universo_2017.svg/1200px-Universo_2017.svg.png", Universo (simple)
-https://p13.lol/centra_live_a_b/n907iOxHult0/2086103.ts
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1238px-Logo_Univision_2019.svg.png", Univision (simple)
-https://p13.lol/centra_live_a_b/n907iOxHult0/2086104.ts
-
 #EXTINF:-1 group-title="Various Sports" tvg-logo="https://www.liveeventsgroup.co.uk/wp-content/themes/liveevents/images/live-events-logo.png", Event Extra 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ad206bf45075406da1ccfd824b4667c9:dbb490040f3fece7959603e46e8314ab
@@ -203,30 +152,27 @@ https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
 
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/538_144.png", Astro Premier League 3 - Vpn
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 group-title="Various Sports" tvg-logo="https://pictr.com/images/2023/08/23/EAHL96.png", Astro Live Event 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ugi+dn4aXol3fmimmYqMGQ", "kid":"Hs4+y0FpnoVcbcmig5CCEA" } ], "type":"temporary" }
-http://d1w72er2qn2fg9.cloudfront.net/premier3.mpd
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/568_144.png", Astro Premier League 4 - Vpn
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5108/default.mpd
+#EXTINF:-1 group-title="Various Sports" tvg-logo="https://pictr.com/images/2023/08/23/EAHnMI.png", Astro Live Event 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"PhtXwGaZx+QI56pJ/1fU9A", "kid":"MiX4N6S5XW5GaDxTgYwXEA" } ], "type":"temporary" }
-http://d1w72er2qn2fg9.cloudfront.net/premier4.mpd
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/570_144.png", Astro Premier League 5 - Vpn
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Ff90rhBkxfL7ANKZX6iJVQ", "kid":"yxiUWSXmXUEfu5htclMQEA" } ], "type":"temporary" }
+##KODIPROP:inputstream.adaptive.license_key=8d580c263ffde691b4249dfcac43fd10:f3148d1e737dece3554b889868831659
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9986/default.mpd
+#EXTINF:-1 group-title="Various Sports" tvg-logo="https://pictr.com/images/2023/08/23/EAH4Jr.png", Astro Live Event 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Oz7eaOi7nQ1OO0UXxCLMzw", "kid":"IpZwRpRpqm94vFu+EAcYEA" } ], "type":"temporary" }
-http://d1w72er2qn2fg9.cloudfront.net/premier5.mpd
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png", Astro Grandstand - Vpn
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_key=8ab014de03c31a84a835583c348a5e10:5ed727c3f28bac59aa3e5914f5ad455c
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9988/default.mpd
+#EXTINF:-1 group-title="Various Sports" tvg-logo="https://pictr.com/images/2024/01/04/EXDgUO.png", Astro Live Event 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"O+3QvNEXVgFsmjzL559mZQ", "kid":"xeZBeMM+QYWjQG2EJSzXoA" }], "type":"temporary" }
-http://d1w72er2qn2fg9.cloudfront.net/grandstand.mpd
+#KODIPROP:inputstream.adaptive.license_key=de761cd285aa2b1c1620d16ddbade010:f12de5f0de92c52f841705d9d6449d3a
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default.mpd
 
 
 #EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/gaZdu8u.png", FS 1
