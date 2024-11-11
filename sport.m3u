@@ -2176,7 +2176,7 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 http://iptv.prosto.tv:7000/ch118/video.m3u8
 #EXTINF:-1 group-title="Various Sports" tvg-logo="https://i.postimg.cc/zvJfDPrT/Fight-Network.png", Fight Network (d12)
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/fightnetwork.webp", MFight Network (ads)
+#EXTINF:-1 group-title="Various Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz8GQpsfLnY8N19AU41MXg_5sZR37YHAjes3laFt0mwooh59jI8Cm3FB5K&s=10", MFight Network (ads)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=778
 #EXTINF:-1 group-title="Various Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png", Hard Knock Fighting (d3u)
 https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099396/8d216b41-1,96b-49d2-afb2-46cb9916f903.m3u8
@@ -2184,7 +2184,7 @@ https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099
 https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/XFC_TV/index-xfctv.m3u8
 #EXTINF:-1 group-title="Various Sports" tvg-logo="https://i.ibb.co/xsgYdKT/wwenetwork.png", WWE Network (d2p)
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/ImpactWrestling.webp", Impact! Wrestling (d2p)
+#EXTINF:-1 group-title="Various Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVamHpeXL0TxHWR6eKE-gqDHY9umWn2TOHXw&usqp=CAU", Impact! Wrestling (d2p)
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 group-title="Various Sports" tvg-logo="https://i.ibb.co.com/JzfHXNp/motorvision.png", MOTORVISION (prod)
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8
@@ -2350,7 +2350,7 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/up7qpwch9b/o
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", Arena Sport Premier League
+#EXTINF:-1 group-title="Various Sports" tvg-logo="https://thumbor.prod.vidiocdn.com/Y5ZZSYNOr3B-xLAaBNadIBc8VGc=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/test-tv-epl-f4cbe6.jpg", Arena Sport Premier League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
