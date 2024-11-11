@@ -2723,6 +2723,160 @@ https://xyzdddd.mizhls.ru/lb/premium607/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://xyzdddd.mizhls.ru/lb/premium608/index.m3u8
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="UK | TNT Sports 1ⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/c1e766b9d470dde398f2673ff360fd4f.png" group-title="Xplat Sports",TNT Sports 1
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/161
+#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="UK | TNT Sports 2ⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/9972dcc31632e53912def53891b26742.png" group-title="Xplat Sports",TNT Sports 2
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/93551
+#EXTINF:-1 tvg-id="TNTSports3.uk" tvg-name="UK | TNT Sports 3ⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/b03c8e48162dc26d9f78850e8621d5c9.png" group-title="Xplat Sports",TNT Sports 3
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/53517
+#EXTINF:-1 tvg-id="TNTSports4.uk" tvg-name="UK | TNT Sports 4ⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/272892b6239befd51b3bc0df51b9e47c.png" group-title="Xplat Sports",TNT Sports 4
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/93693
+#EXTINF:-1 tvg-id="4Music.uk" tvg-name="UK | TNT Sports 5ⓧ (Event Only)" tvg-logo="http://xplatinmedia.com:8080/images/cd9ebf857d7a3653dda25e964685b033.png" group-title="Xplat Sports",TNT Sports 5 (Event Only)
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/163
+#EXTINF:-1 tvg-id="4Music.uk" tvg-name="UK | TNT Sports 6ⓧ (Event Only) " tvg-logo="http://xplatinmedia.com:8080/images/79f4ab0d297159de6fd790f2c2c67364.png" group-title="Xplat Sports",TNT Sports 6 (Event Only) 
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/164
+#EXTINF:-1 tvg-id="4Music.uk" tvg-name="UK | TNT Sports 7ⓧ (Event Only) " tvg-logo="http://xplatinmedia.com:8080/images/53baa92acd97a7baabc119aa72910eb0.png" group-title="Xplat Sports",TNT Sports 7 (Event Only) 
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/165
+#EXTINF:-1 tvg-id="4Music.uk" tvg-name="UK | TNT Sports 8ⓧ (Event Only)" tvg-logo="http://xplatinmedia.com:8080/images/5d868b52eb3d8a0cc21c77cba80f8f21.png" group-title="Xplat Sports",TNT Sports 8 (Event Only)
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/166
+#EXTINF:-1 tvg-id="4Music.uk" tvg-name="UK | TNT Sports 9ⓧ (Event Only)" tvg-logo="http://xplatinmedia.com:8080/images/d1176df72e0f7c41ca0d4aecacd99f31.png" group-title="Xplat Sports",TNT Sports 9 (Event Only)
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/167
+#EXTINF:-1 tvg-id="Channel4HD.uk" tvg-name="UK | Channel 4ⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/53f133369cc243652af5d1bc0757dd59.png" group-title="Xplat Sports",Channel 4 UK
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/287
+#EXTINF:-1 tvg-id="Channel5HD.uk" tvg-name="UK | Channel 5ⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/77f5a91be75996f70212114d29e96594.png" group-title="Xplat Sports",Channel 5 UK
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/288
+#EXTINF:-1 tvg-id="SkySportsPremierLeagueHD.uk" tvg-name="UK | Sky Sports Premier Leagueⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/fd0c145b099e7b306d2a2abae6e0e8e8.png" group-title="Xplat Sports",Sky Sports Premier League
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/36
+#EXTINF:-1 tvg-id="ViaplaySports1.uk" tvg-name="UK | Viaplay Sports 1ⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/87110d74d8e46017255b5f692fc1fc5e.png" group-title="Xplat Sports",Viaplay Sports 1
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/62563
+#EXTINF:-1 tvg-id="ViaplaySports2.uk" tvg-name="UK | Viaplay Sports 2ⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/87110d74d8e46017255b5f692fc1fc5e.png" group-title="Xplat Sports",Viaplay Sports 2
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/275
+#EXTINF:-1 tvg-id="" tvg-name="NZ | SKY Sport 01ⓧ" tvg-logo="http://xplatinmedia.com:8080/images/7f41b3cfd1c1c91176bf669222d1f286.png" group-title="Xplat Sports",SKY Sport 01
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/102247
+#EXTINF:-1 tvg-id="" tvg-name="NZ | SKY Sport 02ⓧ" tvg-logo="http://xplatinmedia.com:8080/images/f34bc29067272ada8180e2e37380f786.png" group-title="Xplat Sports",SKY Sport 02
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/102248
+#EXTINF:-1 tvg-id="" tvg-name="NZ | SKY Sport 03ⓧ" tvg-logo="http://xplatinmedia.com:8080/images/7fef60de3696946aa8c65f05d0f85825.png" group-title="Xplat Sports",SKY Sport 03
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/102249
+#EXTINF:-1 tvg-id="" tvg-name="NZ | SKY Sport 04ⓧ" tvg-logo="http://xplatinmedia.com:8080/images/d4e82cb9f942056028bb114785d510b1.png" group-title="Xplat Sports",SKY Sport 04
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/102250
+#EXTINF:-1 tvg-id="" tvg-name="NZ | SKY Sport 05ⓧ" tvg-logo="http://xplatinmedia.com:8080/images/ed6bc5cc265a1c66f71ae0b9d114bcb2.png" group-title="Xplat Sports",SKY Sport 05
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/102251
+#EXTINF:-1 tvg-id="" tvg-name="NZ | SKY Sport 06ⓧ" tvg-logo="http://xplatinmedia.com:8080/images/d376ec13a14045cc955c05513a00e1bf.png" group-title="Xplat Sports",SKY Sport 06
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/102252
+#EXTINF:-1 tvg-id="" tvg-name="NZ | SKY Sport 07ⓧ" tvg-logo="http://xplatinmedia.com:8080/images/cea835e81a4f068e527a403b1b5ad21b.png" group-title="Xplat Sports",SKY Sport 07
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/102253
+#EXTINF:-1 tvg-id="" tvg-name="NZ | SKY Sport 08ⓧ" tvg-logo="http://xplatinmedia.com:8080/images/b26e6a82330cba2083736f5444d66c56.png" group-title="Xplat Sports",SKY Sport 08
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/102254
+#EXTINF:-1 tvg-id="" tvg-name="NZ | SKY Sport 9ⓧ" tvg-logo="http://xplatinmedia.com:8080/images/5f0b00fa81b3ac1f41d835b49ae0f6cb.png" group-title="Xplat Sports",SKY Sport 09
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/102255
+#EXTINF:-1 tvg-id="" tvg-name="NZ | SKY Sport SELECTⓧ " tvg-logo="http://xplatinmedia.com:8080/images/071ca7c5514089a613a47d71b9134794.png" group-title="Xplat Sports",SKY Sport SELECT
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/102246
+#EXTINF:-1 tvg-id="" tvg-name="HK | Now Sports PL 1ⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/4d7a7ea8e7739ac43bc63d3e144b67ac.png" group-title="Xplat Sports",Now Sports PL 1
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/121181
+#EXTINF:-1 tvg-id="" tvg-name="HK | Now Sports PL 2ⓧ FHD (Matchtime Only)" tvg-logo="http://xplatinmedia.com:8080/images/eb81918a996769f42b31b6b4c1c29ff9.png" group-title="Xplat Sports",Now Sports PL 2 (Matchtime Only)
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/121182
+#EXTINF:-1 tvg-id="" tvg-name="HK | Now Sports PL 3ⓧ FHD (Matchtime Only)" tvg-logo="http://xplatinmedia.com:8080/images/1c95ca9a9b26aa5d4707b838a2f424cd.png" group-title="Xplat Sports",Now Sports PL 3 (Matchtime Only)
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/121183
+#EXTINF:-1 tvg-id="" tvg-name="HK | Now Sports PL 4ⓧ FHD (Matchtime Only)" tvg-logo="http://xplatinmedia.com:8080/images/8014de098eb7db08466478b2a9b77bcd.png" group-title="Xplat Sports",Now Sports PL 4 (Matchtime Only)
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/121184
+#EXTINF:-1 tvg-id="" tvg-name="HK | Now Sports PL 5ⓧ FHD (Matchtime Only)" tvg-logo="http://xplatinmedia.com:8080/images/998cf3b95c517ab3fddfde239d4c0d09.png" group-title="Xplat Sports",Now Sports PL 5 (Matchtime Only)
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/121185
+#EXTINF:-1 tvg-id="" tvg-name="HK | Now Sports PL 6ⓧ FHD (Matchtime Only)" tvg-logo="http://xplatinmedia.com:8080/images/e146951d6fa19aa9dc43654585691184.png" group-title="Xplat Sports",Now Sports PL 6 (Matchtime Only)
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/121186
+#EXTINF:-1 tvg-id="1.L" tvg-name="DE | DAZN 1 Barⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/0115e0905eb6b032fc967949252e94d8.png" group-title="Xplat Sports",DAZN 1 Bar DE
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/53660
+#EXTINF:-1 tvg-id="2.L" tvg-name="DE | DAZN 2 Barⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/debdd9fac1edc371aeef07032528ff08.png" group-title="Xplat Sports",DAZN 2 Bar DE
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/53662
+#EXTINF:-1 tvg-id="123TV.de" tvg-name="DE | Sky Bundesliga 1ⓧ FHD (Match time only)" tvg-logo="http://xplatinmedia.com:8080/images/e5cfec39085e9dcb6e2df3ce447b8697.png" group-title="Xplat Sports",Sky Bundesliga 1 (Match time only)
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/53677
+#EXTINF:-1 tvg-id="123TV.de" tvg-name="DE | Sky Bundesliga 2ⓧ FHD (Match time only)" tvg-logo="http://xplatinmedia.com:8080/images/db23c7f2f19abb6ed1eb1050ec75fe3d.png" group-title="Xplat Sports",Sky Bundesliga 2 (Match time only)
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/53679
+#EXTINF:-1 tvg-id="123TV.de" tvg-name="DE | Sky Bundesliga 3ⓧ FHD (Match time only)" tvg-logo="http://xplatinmedia.com:8080/images/88cf9f3bc9e230c3ded3497aa1824011.png" group-title="Xplat Sports",Sky Bundesliga 3 (Match time only)
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/53681
+#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE | Sky Bundesliga 4ⓧ FHD (Match time only)" tvg-logo="http://xplatinmedia.com:8080/images/c302318578e6affdc2ba058a7f290bbf.png" group-title="Xplat Sports",Sky Bundesliga 4 (Match time only)
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/53683
+#EXTINF:-1 tvg-id="123TV.de" tvg-name="DE | Sky Bundesliga 5ⓧ FHD (Match time only)" tvg-logo="http://xplatinmedia.com:8080/images/8f205f87096a8cdc5a155c59c4c4302b.png" group-title="Xplat Sports",Sky Bundesliga 5 (Match time only)
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/53685
+#EXTINF:-1 tvg-id="123TV.de" tvg-name="DE | Sky Bundesliga 6ⓧ FHD (Match time only)" tvg-logo="http://xplatinmedia.com:8080/images/a9f18d8485e9a95d99c25761de9176c5.png" group-title="Xplat Sports",Sky Bundesliga 6 (Match time only)
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/53687
+#EXTINF:-1 tvg-id="123TV.de" tvg-name="DE | Sky Bundesliga 7ⓧ FHD (Match time only)" tvg-logo="http://xplatinmedia.com:8080/images/dac682b838b51f0b114a39ccdcd3d25e.png" group-title="Xplat Sports",Sky Bundesliga 7 (Match time only)
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/53689
+#EXTINF:-1 tvg-id="123TV.de" tvg-name="DE | Sky Bundesliga 8ⓧ FHD (Match time only)" tvg-logo="http://xplatinmedia.com:8080/images/46a455c427a67dfaa443e7a3be0ac32a.png" group-title="Xplat Sports",Sky Bundesliga 8 (Match time only)
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/53691
+#EXTINF:-1 tvg-id="123TV.de" tvg-name="DE | Sky Bundesliga 9ⓧ FHD (Match time only)" tvg-logo="http://xplatinmedia.com:8080/images/3cfdb64f6a2d21ed5469b8195cd7377f.png" group-title="Xplat Sports",Sky Bundesliga 9 (Match time only)
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/53693
+#EXTINF:-1 tvg-id="123TV.de" tvg-name="DE | Sky Bundesliga 10ⓧ FHD (Match time only)" tvg-logo="http://xplatinmedia.com:8080/images/585361e6ea4fddbc7e5cea0e34f7d4ac.png" group-title="Xplat Sports",Sky Bundesliga 10 (Match time only)
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/53695
+#EXTINF:-1 tvg-id="SSS Sport News DE" tvg-name="DE | Sky Sport Premier Leagueⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/f3139a20c7d61f4d78dde5847cab5be6.png" group-title="Xplat Sports",Sky Sport Premier League DE
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/79271
+#EXTINF:-1 tvg-id="SSS Sport 1 DE" tvg-name="DE | Sky Sport Top Eventⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/536e4787fb633cc208c6de5b901f762e.png" group-title="Xplat Sports",Sky Sport Top Event DE
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/78817
+#EXTINF:-1 tvg-id="Arena Premium 1.ba" tvg-name="Sport | Arena Sport Premium 1 SRⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/35cb24ac55b127d25ac9d3942d78fdd3.png" group-title="Xplat Sports",Arena Sport Premium 1 SR
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/116540
+#EXTINF:-1 tvg-id="Arena Premium 2.ba" tvg-name="Sport | Arena Sport Premium 2 SRⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/8515efee9ee90a855835be3bcc764170.png" group-title="Xplat Sports",Arena Sport Premium 2 SR
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/116541
+#EXTINF:-1 tvg-id="Arena Premium 3.ba" tvg-name="Sport | Arena Sport Premium 3 SRⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/e1b795ee9b9eaf394b41c30db5564588.png" group-title="Xplat Sports",Arena Sport Premium 3 SR
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/116542
+#EXTINF:-1 tvg-id="Pink Show (SR)" tvg-name="Sport | Arena Sport 1 SRⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/84bbebb01c3be16307ede7f46f996854.png" group-title="Xplat Sports",Arena Sport 1 SR
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/53444
+#EXTINF:-1 tvg-id="Arena Sport 2 HD" tvg-name="Sport | Arena Sport 2 SRⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/d9c57083e1e7184b5768a255aa7a1e05.png" group-title="Xplat Sports",Arena Sport 2 SR
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/53445
+#EXTINF:-1 tvg-id="Pink Show (SR)" tvg-name="Sport | Arena Sport 3 SRⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/a2e89a901c772889edafb87dbd508621.png" group-title="Xplat Sports",Arena Sport 3 SR
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/52212
+#EXTINF:-1 tvg-id="Arena Sport 4 HD" tvg-name="Sport | Arena Sport 4 SRⓧ FHD " tvg-logo="http://xplatinmedia.com:8080/images/241a1be35971cdee57e34928bb0ea39e.png" group-title="Xplat Sports",Arena Sport 4 SR
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/53447
+#EXTINF:-1 tvg-id="Arena Sport 5 HD" tvg-name="Sport | Arena Sport 5 SRⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/3e25a19bb0e0653728445d0bca08532a.png" group-title="Xplat Sports",Arena Sport 5 SR
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/53448
+#EXTINF:-1 tvg-id="Arena Sport 6 HD" tvg-name="Sport | Arena Sport 6 SRⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/662de86921d612c00b05d50e673ccc7e.png" group-title="Xplat Sports",Arena Sport 6 SR
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/92201
+#EXTINF:-1 tvg-id="Arenasport 7_max" tvg-name="Sport | Arena Sport 7 SRⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/e3f96b93b851050e900b1557b2802ce3.png" group-title="Xplat Sports",Arena Sport 7 SR
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/92200
+#EXTINF:-1 tvg-id="Pink Show (SR)" tvg-name="Sport | Arena Sport 8 SRⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/9539006c3b5c602f945f46b6b03cf74e.png" group-title="Xplat Sports",Arena Sport 8 SR
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/92199
+#EXTINF:-1 tvg-id="Pink Show (SR)" tvg-name="Sport | Arena Sport 9 SRⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/49d73a95c79a0063a8093f8f6082e65a.png" group-title="Xplat Sports",Arena Sport 9 SR
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/169994
+#EXTINF:-1 tvg-id="Arenasport 10_max" tvg-name="Sport | Arena Sport 10 SRⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/10080732b06363cae739cdec7ad539e1.png" group-title="Xplat Sports",Arena Sport 10 SR
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/169995
+#EXTINF:-1 tvg-id="Pink Show (SR)" tvg-name="Sport | Arena Sport 1 HRⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/8e0bb9408e961932faec42142226a026.png" group-title="Xplat Sports",Arena Sport 1 HR
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/52215
+#EXTINF:-1 tvg-id="Pink Show (SR)" tvg-name="Sport | Arena Sport 2 HRⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/4d9ce3755366f3f53922a6d5204a2118.png" group-title="Xplat Sports",Arena Sport 2 HR
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/52216
+#EXTINF:-1 tvg-id="Arenasport 3 HD_max" tvg-name="Sport | Arena Sport 3 HRⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/0fb2ea8f5d4994db5f66fb0e3fcbe04a.png" group-title="Xplat Sports",Arena Sport 3 HR
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/52217
+#EXTINF:-1 tvg-id="Arenasport 4 HD_max" tvg-name="Sport | Arena Sport 4 HRⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/bfee2a88dd8d4d73fcad4e22c23d0c1a.png" group-title="Xplat Sports",Arena Sport 4 HR
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/52218
+#EXTINF:-1 tvg-id="Arena Sport 5 HD" tvg-name="Sport | Arena Sport 5 HRⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/64064682ff1164d9d4fcf0010456eae3.png" group-title="Xplat Sports",Arena Sport 5 HR
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/93282
+#EXTINF:-1 tvg-id="Arenasport 6 HD_max" tvg-name="Sport | Arena Sport 6 HRⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/8f627512e6e60b1c94b5f602bceab392.png" group-title="Xplat Sports",Arena Sport 6 HR
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/52220
+#EXTINF:-1 tvg-id="Arenasport 7 HD_max" tvg-name="Sport | Arena Sport 7 HRⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/a1936785b8c274c2ab759a3904264bab.png" group-title="Xplat Sports",Arena Sport 7 HR
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/93278
+#EXTINF:-1 tvg-id="Arenasport 8 HD_max" tvg-name="Sport | Arena Sport 8 HRⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/d998ba0b3712f1214520a09361349641.png" group-title="Xplat Sports",Arena Sport 8 HR
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/93279
+#EXTINF:-1 tvg-id="Arenasport 9 HD_max" tvg-name="Sport | Arena Sport 9 HRⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/49d73a95c79a0063a8093f8f6082e65a.png" group-title="Xplat Sports",Arena Sport 9 HR
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/93280
+#EXTINF:-1 tvg-id="Arenasport 10 HD_max" tvg-name="Sport | Arena Sport 10 HRⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/10080732b06363cae739cdec7ad539e1.png" group-title="Xplat Sports",Arena Sport 10 HR
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/93281
+#EXTINF:-1 tvg-id="Sport Klub 1" tvg-name="Sport | Sport Klub 1 SRⓧ" tvg-logo="http://xplatinmedia.com:8080/images/2044aa94aab69b8258785f93f532c720.png" group-title="Xplat Sports",Sport Klub 1 SR
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/52221
+#EXTINF:-1 tvg-id="Sport Klub 2" tvg-name="Sport | Sport Klub 2 SRⓧ" tvg-logo="http://xplatinmedia.com:8080/images/234a381b86d102f509579d8d42712e2b.png" group-title="Xplat Sports",Sport Klub 2 SR
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/52222
+#EXTINF:-1 tvg-id="Sport Klub 3" tvg-name="Sport | Sport Klub 3 SRⓧ" tvg-logo="http://xplatinmedia.com:8080/images/11c3d24a7eb59eb543ca61c7056c370f.png" group-title="Xplat Sports",Sport Klub 3 SR
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/52223
+#EXTINF:-1 tvg-id="SK 4 HD (SR)" tvg-name="Sport | Sport Klub 4 SRⓧ" tvg-logo="http://xplatinmedia.com:8080/images/9c765e60c4b4d847de2abd7672b0a1a5.png" group-title="Xplat Sports",Sport Klub 4 SR
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/13560
+#EXTINF:-1 tvg-id="SK 5 HD (SR)" tvg-name="Sport | Sport Klub 5ⓧ" tvg-logo="http://xplatinmedia.com:8080/images/d9e687be27e9faec65b380401300ae7b.png" group-title="Xplat Sports",Sport Klub 5
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/52225
+#EXTINF:-1 tvg-id="SK 6 HD (SR)" tvg-name="Sport | Sport Klub 6ⓧ" tvg-logo="http://xplatinmedia.com:8080/images/e403a15e8671f73177802eb491efe76b.png" group-title="Xplat Sports",Sport Klub 6
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/52226
+#EXTINF:-1 tvg-id="SK 7 HD (SR)" tvg-name="Sport | Sport Klub 7ⓧ" tvg-logo="http://xplatinmedia.com:8080/images/62f6acfe054dda346ce67f822720e477.png" group-title="Xplat Sports",Sport Klub 7
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/79434
+#EXTINF:-1 tvg-id="SK 8 HD (SR)" tvg-name="Sport | Sport Klub 8ⓧ" tvg-logo="http://xplatinmedia.com:8080/images/9d9946ef88d7e6690d0a7fe5febbaf41.png" group-title="Xplat Sports",Sport Klub 8
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/79435
+#EXTINF:-1 tvg-id="SK 9 HD (SR)" tvg-name="Sport | Sport Klub 9ⓧ" tvg-logo="http://xplatinmedia.com:8080/images/4c07cb56323509aa921dce86c6e8dfc3.png" group-title="Xplat Sports",Sport Klub 9
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/61670
+#EXTINF:-1 tvg-id="SK 10 HD (SR)" tvg-name="Sport | Sport Klub 10ⓧ" tvg-logo="http://xplatinmedia.com:8080/images/b94e24e5f9bc4c96bea7be738f4297a7.png" group-title="Xplat Sports",Sport Klub 10
+http://xplatinmedia.com:8080/Ibro_2/YWq75MXA68/61669
 #EXTINF:-1 group-title="TNT Sports" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-1.png", TNT Sports 1 (kstv)
 http://kstv.us:8080/live/tH300gvHff/8606073792/47850.ts
 #EXTINF:-1 group-title="TNT Sports" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-2.png", TNT Sports 2 (kstv)
