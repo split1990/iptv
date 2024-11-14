@@ -1,5 +1,36 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Test SPORTS" tvg-id="120" tvg-name="Fox Sports 1" tvg-logo="https://stfire.app/images/channel_imgs/060923021714FS1_2016.png",Fox Sports 1
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-foxsports1hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTozOSBBTSZoYXNoX3ZhbHVlPUhvMTNPWjllMUJjRjFKOWJkNUpCM1E9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI5OTQ1Mg==
+
+#EXTINF:-1 group-title="Test SPORTS" tvg-id="121" tvg-name="Fox Sports 2" tvg-logo="https://stfire.app/images/channel_imgs/060923021819fs2.png",Fox Sports 2
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream1.streamfire.live:8081/live/us-foxsports2hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTozOSBBTSZoYXNoX3ZhbHVlPUtGNzlzT1ppRmZNL1VRbW15ejVTOFE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI5OTg0Nw==
+
+#EXTINF:-1 group-title="Test SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK4wUk2jt7Si5dvd2CDwlO6AvL5qc8KmBI051aslZ3dc4vQCeKYPdsFZEJ&s=10", DAZN 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-054/stream.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9UZzFZV0kyT1RrdE56TmtOQzAwTmpJNExXRTBZV0V0WVdObE0yVTVNV05oTW1ZMCIsIndtb3BpZCI6MzIsImV4cCI6MTczMjExNDQ1MywiaWF0IjoxNzMxNTEwNDUzfQ.s_-Wdiq7U0Al1WlW7GB4GHh1RSt7BVW3MMI3AkYUFgA"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4dQox/HKgjOabPodB1dCjg", "kid":"dIHT43OMRnaPE44gj+6Qdg" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroArenaBola" ch-number="803" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-title="Test SPORTS",Astro Arena Bola
+https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9UZzFZV0kyT1RrdE56TmtOQzAwTmpJNExXRTBZV0V0WVdObE0yVTVNV05oTW1ZMCIsIndtb3BpZCI6MzIsImV4cCI6MTczMjExNDQ1MywiaWF0IjoxNzMxNTEwNDUzfQ.s_-Wdiq7U0Al1WlW7GB4GHh1RSt7BVW3MMI3AkYUFgA"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eTnjNb+Mu9aIL59cnN6+GQ", "kid":"mWhVRUkdQLSTs6SyY8ckXg" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" group-title="Test SPORTS",Astro Arena Bola 2
+https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
+
+
 #EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/xpyizj_Bi2XHb6IRydUXsvq_7N0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-3beebf.jpg" group-title="10.VIDIO SPORT",Champions 1
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.manifest_type=dash
