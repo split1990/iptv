@@ -20,7 +20,6 @@ https://linear.aws.optusvideo.tv/v7/OptusSport11/xbtss/drm/avc/dash/plain/manife
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=744d45c6dbe64b48a4c93ad96b89dcf0:e637b029d9d8288f2fd272219914c60a
 https://linear.aws.optusvideo.tv/v7/OptusSport12/xbtss/drm/avc/dash/plain/manifest.mpd
-
 #EXTINF:-1 group-title="Various Sports" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", Sky Sports Premier League (UK) - Vpn
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -33,7 +32,6 @@ https://linear015-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_120/L
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=000546476256963bd054ded3b6ae5800:1e497068bcc078fdb2f4296bc400ca2b
 https://linear015-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsmainevent)/manifest_720.mpd
-
 #EXTINF:-1 group-title="Various Sports" tvg-logo="http://guki.my.id/logo/sports/1p.png", Arena Sport Premium 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -55,7 +53,6 @@ https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
-
 #EXTINF:-1 group-title="Various Sports" tvg-logo="https://pictr.com/images/2023/08/23/EAHL96.png", Astro Live Event 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ugi+dn4aXol3fmimmYqMGQ", "kid":"Hs4+y0FpnoVcbcmig5CCEA" } ], "type":"temporary" }
@@ -77,7 +74,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9988/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=de761cd285aa2b1c1620d16ddbade010:f12de5f0de92c52f841705d9d6449d3a
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default.mpd
-
 #EXTINF:-1 group-title="Various Sports" tvg-id="" tvg-logo="https://iili.io/JyH2Hkg.png", M LIVE 1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
@@ -103,8 +99,6 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSpor
 #KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 https://d1abp075u76pbq.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
-
-
 #EXTINF:-1 group-title="Test web" tvg-logo="https://i.imgur.com/gaZdu8u.png", FS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
@@ -139,7 +133,7 @@ https://webhdrunns.mizhls.ru/lb/premium61/index.m3u8|referer=https://lewblivehdp
 https://webhdrunns.mizhls.ru/lb/premium90/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTINF:-1 group-title="Test web" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/724539660042a9755e6c7d5dafef0a55.png", beIN Sports Eng 3 (lew)
 https://webhdrunns.mizhls.ru/lb/premium46/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 group-title"Test web" tvg-logo="https://i.imgur.com/wJxduCO.png", Al Kass 1 (a+lew)
+#EXTINF:-1 group-title="Test web" tvg-logo="https://i.imgur.com/wJxduCO.png", Al Kass 1 (a+lew)
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://webhdrunns.mizhls.ru/lb/premium781/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTINF:-1 group-title="Test web" tvg-logo="https://i.imgur.com/wJxduCO.png", Al Kass 2 (a+lew)
@@ -195,8 +189,6 @@ https://lott3-web-opus.cdn.avp.telus.net/232006004133/vxfmt=dp/manifest.mpd?devi
 #EXTVLCOPT:http-user-agent=AppleCoreMedia
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 https://esx1zz.webhd.ru/tshttp/esx1/eplayerTSN_5_HD/mono.m3u8|origin=https://ilovetoplay.xyz
-
-
 #EXTINF:-1 group-title="Test moj" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", ESPN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://848b3516657c-usatv.baby-beamup.club/public/m3u/44.m3u8
@@ -214,8 +206,6 @@ https://848b3516657c-usatv.baby-beamup.club/public/m3u/66.m3u8
 #EXTINF:-1 group-title="Test moj" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", WWE Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 http://fl2.moveonjoy.com/WWE/index.m3u8
-
-
 #EXTINF:-1 group-title="Test Astro" tvg-logo="http://kingtv.dynu.com/tvlogo/PremierLeague.png", Astro Premier League 1
 http://31.42.187.37:25461/watchpad13158/1234/114
 #EXTINF:-1 group-title="Test Astro" tvg-logo="http://kingtv.dynu.com/tvlogo/PremierLeague2.png", Astro Premier League 2
