@@ -4440,20 +4440,6 @@ https://7pal.short.gy/espnus
 https://7pal.short.gy/espn2
 #EXTINF:-1 group-title="Various Sports" tvg-logo="https://i.imgur.com/uo7pHjF.png", CBS_Sport_Network (7pal)
 https://7pal.short.gy/cbssptnw
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLfqrHKkvspQZXhqxErIhKBOmOTf2ruwPEfHDSQHrqsUgw-tAYvkIEg80&s=10", EUROSPORT 1 UK
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=237be8ca9383755e9f5784dd23f545eb:15a723773c3b3cbce295c0aed0bc71c3
-https://cache2.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_enc/eurosport_1_hd.mpd
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLfqrHKkvspQZXhqxErIhKBOmOTf2ruwPEfHDSQHrqsUgw-tAYvkIEg80&s=10", EUROSPORT 2 UK
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=15382879a9bcfa6f1a04a86d5b4324e9:664241133368ab039dc1fb15206ba54b
-https://cache2.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_enc/eurosport_2_hd.mpd
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo-2011.png", Eurosport Asia
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0OeU48/1ZO0scgoJjrF3xw", "kid":"TbI6Qbq/6a/CIqWMWYKDEA" } ], "type":"temporary" }
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default.mpd
 #EXTINF:-1 group-title="Various Sports" tvg-logo="https://www.liveeventsgroup.co.uk/wp-content/themes/liveevents/images/live-events-logo.png", Event Extra 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cf9689067bc0465593084d7832982fd1:07454bafd70413ab57a3eb25de2c79c3
