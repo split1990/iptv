@@ -4148,6 +4148,26 @@ https://canale.mizhls.ru/lb/premium418/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium419/playlist.m3u8
+#EXTINF:-1 group-title="Simple Sports" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", Live 1 (pep)
+https://pepebong.online/live/1/chunks.m3u8
+#EXTINF:-1 group-title="Simple Sports" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", Live 2 (pep)
+https://pepebong.online/live/2/chunks.m3u8
+#EXTINF:-1 group-title="Simple Sports" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", Live 3 (pep)
+https://pepebong.online/live/3/chunks.m3u8
+#EXTINF:-1 group-title="Simple Sports" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", Live 4 (pep)
+https://pepebong.online/live/4/chunks.m3u8
+#EXTINF:-1 group-title="Simple Sports" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", Live 5 (pep)
+https://pepebong.online/live/5/chunks.m3u8
+#EXTINF:-1 group-title="Simple Sports" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", Live 6 (pep)
+https://pepebong.online/live/6/chunks.m3u8
+#EXTINF:-1 group-title="Simple Sports" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", Live 7 (pep)
+https://pepebong.online/live/7/chunks.m3u8
+#EXTINF:-1 group-title="Simple Sports" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", Live 8 (pep)
+https://pepebong.online/live/8/chunks.m3u8
+#EXTINF:-1 group-title="Simple Sports" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", Live 9 (pep)
+https://pepebong.online/live/9/chunks.m3u8
+#EXTINF:-1 group-title="Simple Sports" tvg-logo="https://images.squarespace-cdn.com/content/670492fb39a1322aeeab42d6/f52db99d-16d4-4a7f-aee4-b9e80943a184/Logo.png?content-type=image/png", Live 10 (pep)
+https://pepebong.online/live/10/chunks.m3u8
 #EXTINF:-1 group-title="Simple Sports" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png", Sony Ten 1 - Vpn
 https://dai.google.com/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
 #EXTINF:-1 group-title="Simple Sports" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png", Sony Ten 2 - Vpn
@@ -4328,6 +4348,18 @@ https://p13.lol/centra_live_a_b/n907iOxHult0/1860307.ts
 #EXTVLCOPT:http-referrer=http://vpncloud.uk/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://p13.lol/centra_live_a_b/n907iOxHult0/1860308.ts
+#EXTINF:-1 group-title="Simple Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU", beIN Sports 1 Mena
+https://live4.beinconnect.us/YallaGoalApp/beINSports1.m3u8
+#EXTINF:-1 group-title="Simple Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU", beIN Sports 2 Mena
+https://live4.beinconnect.us/YallaGoalApp/beINSports2.m3u8
+#EXTINF:-1 group-title="Simple Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU", beIN Sports 3 Mena
+https://live4.beinconnect.us/YallaGoalApp/beINSports3.m3u8
+#EXTINF:-1 group-title="Simple Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU", beIN Sports 4 Mena
+https://live4.beinconnect.us/YallaGoalApp/beINSports4.m3u8
+#EXTINF:-1 group-title="Simple Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU", beIN Sports 5 Mena
+https://live4.beinconnect.us/YallaGoalApp/beINSports5.m3u8
+#EXTINF:-1 group-title="Simple Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU", beIN Sports 6 Mena
+https://live4.beinconnect.us/YallaGoalApp/beINSports6.m3u8
 #EXTINF:-1 group-title="Simple Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThjcp99pvvgBO6-LHGRj027byewM1KmNOiSA&usqp=CAU", SuperSport Premier League
 #EXTVLCOPT:http-referrer=http://vpncloud.uk/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
