@@ -4158,34 +4158,6 @@ https://dai.google.com/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
 https://dai.google.com/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
 #EXTINF:-1 group-title="Simple Sports" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png", Sony Ten 5 - Vpn
 https://dai.google.com/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
-#EXTINF:-1 group-title="Simple Sports" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp", Bein Sports 1 Thai - Vpn
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv
-https://cdn2.aws-live-streaming.com/lsmscore/bein1/playlist.m3u8
-#EXTINF:-1 group-title="Simple Sports" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp", Bein Sports  2 Thai - Vpn
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv
-https://cdn2.aws-live-streaming.com/lsmscore/bein2/playlist.m3u8
-#EXTINF:-1 group-title="Simple Sports" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp", Bein Sports 3 Thai - Vpn
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv
-https://cdn2.aws-live-streaming.com/lsmscore/bein3/playlist.m3u8
-#EXTINF:-1 group-title="Simple Sports" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7a5b20-30f6-11ee-8c65-b3a6cba5ed9d_webp_original.webp", Bein Sports 4 Thai - Vpn
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv
-https://cdn2.aws-live-streaming.com/lsmscore/bein4/playlist.m3u8
-#EXTINF:-1 group-title="Simple Sports" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/300adb50-30f6-11ee-b3e7-85edd640cc04_webp_original.webp", Bein Sports 5 Thai - Vpn
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv
-https://cdn2.aws-live-streaming.com/lsmscore/bein5/playlist.m3u8
-#EXTINF:-1 group-title="Simple Sports" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7ad050-30f6-11ee-b57d-a9829f092f3e_webp_original.webp", Bein Sports 6 Thai - Vpn
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv
-https://cdn2.aws-live-streaming.com/lsmscore/bein6/playlist.m3u8
-#EXTINF:-1 group-title="Simple Sports" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/9129ec90-5a1d-11ef-b567-e1cdaa5397dd_webp_original.webp", Bein Sports 7 Thai - Vpn
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv
-https://cdn2.aws-live-streaming.com/lsmscore/bein7/playlist.m3u8
 #EXTINF:-1 group-title="Simple Sports" tvg-logo="https://i.ibb.co/PDbMv76/bbcone.png", BBC One - Vpn
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 group-title="Simple Sports" tvg-logo="https://i.ibb.co/mJ9bXnS/bbc2.png", BBC Two - Vpn
@@ -5264,6 +5236,26 @@ https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/94
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/99
 #EXTINF:-1 group-title="Entertainnent" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFyIGtb3QL4rcGcFlxV1qxqXB37hALtgcBm4BFwehGtcT5Gld2PEPDENk&s=10", Warner TV - Vpn Sg (non)
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/1533
+#EXTINF:-1 group-title="Entertainnent" tvg-logo="https://img.balo.live/static/common/img/tv-channel/light/325.png", HBO SIGNATURE (cdn)
+#EXTVLCOPT:http-origin=https://live-streamfootball.com
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/livetv2/1301/index.m3u8
+#EXTINF:-1 group-title="Entertainnent" tvg-logo="https://img.balo.live/static/common/img/tv-channel/light/324.png", HBO FAMILY EAST (cdn)
+#EXTVLCOPT:http-origin=https://live-streamfootball.com
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/livetv2/1305/index.m3u8
+#EXTINF:-1 group-title="Entertainnent" tvg-logo="https://img.balo.live/static/common/img/tv-channel/light/322.png", HBO 2 (cdn)
+#EXTVLCOPT:http-origin=https://live-streamfootball.com
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/livetv2/1309/index.m3u8
+#EXTINF:-1 group-title="Entertainnent" tvg-logo="https://img.balo.live/static/common/img/tv-channel/4f7260990c11b3910c2b43a7dc1a7694.png", Boomerang (cdn)
+#EXTVLCOPT:http-origin=https://live-streamfootball.com
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/livetv2/353/index.m3u8
 #EXTINF:-1 group-title="Entertainnent" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsPKCPolkGfQruaOFRdwk56Tcs4hyPftnB_Q&usqp=CAU", MOVIE SPHERE UK
 http://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Entertainnent" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm3OtF3vQ4YetryJ-M32UrUwbJSm2MFfyhw5lr0V-WskMf6UV7FtNjeql-&s=10", BOLLYWOOD MOVIES
